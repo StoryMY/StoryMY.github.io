@@ -19,7 +19,7 @@ Education
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
   <font size="2">September 2019 -  <br></font> 
-  <font size="2">Ph.D. in Software Engineering at School of Software</a><br></font>
+  <font size="2">Ph.D. in Software Engineering at School of Software<br></font>
   <font size="2"> <b>GPA 3.91/4.0, Rank 2/37</b> <br></font>
 </p>
 </div>
