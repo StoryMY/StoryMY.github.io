@@ -37,7 +37,7 @@ Education
 Publications
 ------
 <div>
-  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 10px" src="../custom_images/pub/ismar23_refraction.png">
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 15px; margin-top: 15px" src="../custom_images/pub/ismar23_refraction.png">
 </div>
 <div>
   <p style="line-height:125%">
@@ -96,7 +96,7 @@ Publications
 <br>
 
 <div>
-  <img style="float: left; width: 175px; margin-right: 10px" src="../custom_images/pub/cvpr22_portrait.png">
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 10px; margin-top: 10px" src="../custom_images/pub/cvpr22_portrait.png">
 </div>
 <div>
   <p style="line-height:125%">
