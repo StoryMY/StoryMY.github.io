@@ -37,7 +37,7 @@ Education
 Publications
 ------
 <div>
-  <img style="float: left; width: 175px; margin-right: 10px" src="../custom_images/pub/ismar23_refraction.png">
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 10px" src="../custom_images/pub/ismar23_refraction.png">
 </div>
 <div>
   <p style="line-height:125%">
@@ -48,7 +48,6 @@ Publications
     <font size="2">
       <b>Junfeng Lyu</b>,
       <a href="http://xufeng.site/">Feng Xu</a> 
-      <br>
       <br>
     </font> 
     <font size="2">
@@ -63,7 +62,6 @@ Publications
   </p>
 </div>
 
-<br>
 <br>
 
 <div>
@@ -95,7 +93,6 @@ Publications
   </p>
 </div>
 
-<br>
 <br>
 
 <div>

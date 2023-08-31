@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junfeng Lyu | THU"
+title                    : "Junfeng Lyu"
 title_separator          : "-"
 name                     : &name "Junfeng Lyu"
 description              : &description "personal description"
