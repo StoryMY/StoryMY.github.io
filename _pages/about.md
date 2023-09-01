@@ -75,9 +75,9 @@ Publications
       <br>
     </font> 
     <font size="2">
-      *Yahan Yang,
-      <b>*Junfeng Lyu</b>, 
-      *Ruixin Wang,
+      Yahan Yang*,
+      <b>Junfeng Lyu*</b>, 
+      Ruixin Wang*,
       Quan Wen,
       Lanqin Zhao, Wenben Chen, Shaowei Bi, Jie Meng,
       et al. <br>
