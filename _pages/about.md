@@ -37,6 +37,35 @@ Education
 Publications
 ------
 <div>
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 0px; margin-top: 0px" src="../custom_images/pub/cvpr24_CoRA.png">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>High-Quality Facial Geometry and Appearance Capture at Home</b>
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://yxuhan.github.io/">Yuxuan Han</a>,
+      <b>Junfeng Lyu</b>,
+      <a href="http://xufeng.site/">Feng Xu</a> 
+      <br>
+    </font> 
+    <font size="2">
+      IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024
+      <br>
+    </font>
+    <font size="2">
+      <a href="https://arxiv.org/abs/2312.03442">[paper]</a> / 
+      <a href="https://yxuhan.github.io/CoRA/index.html">[project]</a> / 
+      <a href="https://github.com/yxuhan/CoRA">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
   <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 15px; margin-top: 15px" src="../custom_images/pub/ismar23_refraction.png">
 </div>
 <div>
@@ -56,7 +85,7 @@ Publications
       <br>
     </font>
     <font size="2">
-      <a href="">[paper]</a> / 
+      <a href="https://ieeexplore.ieee.org/document/10316505/">[paper]</a> / 
       <a href="https://github.com/StoryMY/RefractionGaze">[code]</a>
     </font>
   </p>
