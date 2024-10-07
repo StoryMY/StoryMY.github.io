@@ -37,12 +37,39 @@ Education
 Publications
 ------
 <div>
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 5px; margin-top: 5px" src="../custom_images/pub/sa24_eyelid.png">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>High-quality Animatable Eyelid Shapes from Lightweight Captures</b>
+      <br>
+    </font>
+    <font size="2">
+      <b>Junfeng Lyu</b>,
+      <a href="http://xufeng.site/">Feng Xu</a> 
+      <br>
+    </font>
+    <font size="2">
+      ACM SIGGRAPH Asia 2024 (Conference Track), 2024
+      <br>
+    </font>
+    <font size="2">
+      <a href="https://arxiv.org/abs/2410.01360">[paper]</a> /  
+      <a href="https://github.com/StoryMY/AniEyelid">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
   <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 0px; margin-top: 0px" src="../custom_images/pub/cvpr24_CoRA.png">
 </div>
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>High-Quality Facial Geometry and Appearance Capture at Home</b>
+      <b>High-quality Facial Geometry and Appearance Capture at Home</b>
       <br>
     </font> 
     <font size="2">
