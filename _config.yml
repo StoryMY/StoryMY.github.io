@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Junfeng Lyu"
   avatar           : "../custom_images/profile.png" # "profile.png"
-  bio              : "Ph.D. candidate @ Tsinghua University. My research focuses on 3D Vision & Graphics and Digital Health."
+  bio              : "Ph.D. graduate from Tsinghua University. My research focuses on 3D Vision & Graphics and Digital Health."
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "ljf19@mails.tsinghua.edu.cn"
+  email            : "lyujunfeng@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

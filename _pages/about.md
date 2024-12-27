@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at School of Software, [Tsinghua University](https://www.tsinghua.edu.cn/en/) (THU), supervised by Prof. [Feng Xu](http://xufeng.site/).
+I obtained my Ph.D. degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) (THU), supervised by Prof. [Feng Xu](http://xufeng.site/).
 
 My research interests lie in <b>Computer Vision</b> and <b>Graphics</b>, and I am willing to apply techniques to other research fields.
 
@@ -18,9 +18,9 @@ Education
 <img style="float: left; width: 75px; margin-right: 10px" src="../custom_images/edu/THU.jpg">
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
-  <font size="2">September 2019 -  <br></font> 
+  <font size="2">September 2019 - December 2024<br></font> 
   <font size="2">Ph.D. in Software Engineering at School of Software<br></font>
-  <font size="2"> <b>GPA 3.91/4.0, Rank 2/37</b> <br></font>
+  <font size="2"> <b>GPA 3.90/4.0, Rank 2/37</b> <br></font>
 </p>
 </div>
 
@@ -181,6 +181,6 @@ Publications
 
 Services
 ------
-I have served as a reviewer of ICCV, ICIG, CICAI.
+I have served as a reviewer of CVPR, ICCV, ECCV, ICIG, CICAI.
 
 
