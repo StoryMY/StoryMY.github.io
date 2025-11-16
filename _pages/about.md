@@ -37,7 +37,7 @@ Education
 Publications
 ------
 <div>
-  <img style="float: left; width: 175px; margin-right: 10px" src="../custom_images/pub/NEJMAI_25.png">
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 5px; margin-top: 5px;" src="../custom_images/pub/NEJMAI_25.png">
 </div>
 <div>
   <p style="line-height:125%">
@@ -67,7 +67,7 @@ Publications
 <br>
 
 <div>
-  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 5px;" src="../custom_images/pub/siggraph25_DoRA.png">
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 5px; margin-top: 5px;" src="../custom_images/pub/siggraph25_DoRA.png">
 </div>
 <div>
   <p style="line-height:125%">
