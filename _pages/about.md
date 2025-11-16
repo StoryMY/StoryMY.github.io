@@ -37,6 +37,69 @@ Education
 Publications
 ------
 <div>
+  <img style="float: left; width: 175px; margin-right: 10px" src="../custom_images/pub/NEJMAI_25.png">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>A Smartphone-Based Digital Ruler to Automatically Measure Strabismus in Ophthalmologist-Level: A Prospective, Multicenter Cohort Study</b>
+      <br>
+    </font> 
+    <font size="2">
+      Ruixin Wang*,
+      <b>Junfeng Lyu*</b>, 
+      Yahan Yang*,
+      Shaowei Bi*,
+      Huanyun Yu,
+      Hongwei Deng,
+      et al. <br>
+    </font> 
+    <font size="2">
+      <b>NEJM AI</b>, 2025 
+      <br>
+    </font>
+    <font size="2">
+      <a href="https://ai.nejm.org/doi/full/10.1056/AIoa2401205">[paper]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
+  <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 5px;" src="../custom_images/pub/siggraph25_DoRA.png">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Facial Appearance Capture at Home with Patch-Level Reflectance Prior</b>
+      <br>
+    </font>
+    <font size="2">
+      <a href="https://yxuhan.github.io/">Yuxuan Han</a>, 
+      <b>Junfeng Lyu</b>,
+      <a href="https://orcid.org/0009-0005-8065-2475">Kuan Sheng</a>,
+      <a href="https://orcid.org/0009-0005-5490-8940">Minghao Que</a>,
+      <a href="https://scholar.google.com/citations?user=YvwsqvYAAAAJ&hl=zh-CN">Qixuan Zhang</a>,
+      <a href="http://www.xu-lan.com/">Lan Xu</a>,
+      <a href="http://xufeng.site/">Feng Xu</a> 
+      <br>
+    </font>
+    <font size="2">
+      ACM Transactions on Graphics (Proc. of <b>SIGGRAPH</b>), 2025
+      <br>
+    </font>
+    <font size="2">
+      <a href="https://arxiv.org/abs/2506.03478">[paper]</a> / 
+      <a href="https://yxuhan.github.io/DoRA">[project]</a> /
+      <a href="https://github.com/yxuhan/DoRA">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
   <img style="float: left; width: 175px; margin-right: 10px; margin-bottom: 5px; margin-top: 5px" src="../custom_images/pub/sa24_eyelid.png">
 </div>
 <div>
